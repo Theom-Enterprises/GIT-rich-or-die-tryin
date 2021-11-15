@@ -1,3 +1,5 @@
+#Wet Bed - Gang Devia lr
+
 Tás aonde?
 Eu sei que o teu damo anda todo inseguro
 Porque sabe que tu és mais minha do que dele

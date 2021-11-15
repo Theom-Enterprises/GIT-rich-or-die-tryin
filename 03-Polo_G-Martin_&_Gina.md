@@ -1,8 +1,10 @@
-[Intro]
+#Polo G - Martin & Gina
+
+##Intro
 (Tahj Money)
 (I bet my last track probably gave you lockjaw, hey, Lilkdubb)
 
-[Verse 1]
+##Verse 1
 I think about you on the road when I tear down the booth
 Girl, I can't wait 'til I get home to fuck the shit out of you
 Even on your worst days, girl, you still kind of cute
@@ -16,7 +18,7 @@ The way I kill it, lose her voice when she tryin' to scream
 We from the trenches, we moved onto the finer things
 Now you done went from H&M to a designer fiend
 
-[Chorus]
+##Chorus
 He was playing games, got you dancing in the middle of the club
 Got you dancing in the middle of the club
 I know what you chasing, you can only get this feeling from a thug
@@ -26,7 +28,7 @@ Baby, all you really want is love
 Only talk to bosses, independent, can't be fucking with a scrub
 Girl, I know you can't be fucking with a scrub (Kdubb)
 
-[Verse 2]
+##Verse 2
 I get this feeling in my stomach when you next to me
 Man, I'm tryna get to know you sexually
 Take you on shopping sprees for therapy
@@ -41,7 +43,7 @@ Love the way you smell, I'm addicted to your fragrance
 It's somethin' about you, but I really can't explain it
 Just know that you mine, I tell that nigga he can save it
 
-[Chorus]
+##Chorus
 He was playing games, got you dancing in the middle of the club
 Got you dancing in the middle of the club
 I know what you chasing, you can only get this feeling from a thug
@@ -51,7 +53,7 @@ Baby, all you really want is love
 Only talk to bosses, independent, can't be fucking with a scrub
 Girl, I know you can't be fucking with a scrub
 
-[Chorus]
+##Chorus
 He was playing games, got you dancing in the middle of the club
 Got you dancing in the middle of the club
 I know what you chasing, you can only get this feeling from a thug
@@ -61,7 +63,7 @@ Baby, all you really want is love
 Only talk to bosses, independent, can't be fucking with a scrub
 Girl, I know you can't be fucking with a scrub (Kdubb)
 
-[Verse 3]
+##Verse 3
 I get this feeling in my stomach when you next to me
 Man, I'm tryna get to know you sexually
 Take you on shopping sprees for therapy

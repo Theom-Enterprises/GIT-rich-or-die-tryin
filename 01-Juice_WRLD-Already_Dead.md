@@ -1,4 +1,6 @@
-[Chorus]
+#Juice WRLD - Already Dead
+
+##Chorus
 You can see the pain in my laugh (Yeah, yeah)
 Demons comin' back from the past (Yeah, yeah)
 Feelin' like I'm 'bout to relapse (Yeah, yeah)
@@ -8,7 +10,7 @@ Is everyone wants me dead (Yeah, yeah)
 Bitch, I'm already dead (Yeah, yeah)
 I've been dead for years
 
-[Verse 1]
+##Verse 1
 I've been taking medicine again (Yeah, yeah)
 Henny, mix it with the Vicodin (Yeah, yeah)
 All my sufferin' (Yeah)
@@ -18,7 +20,7 @@ Try to wash away my sins (Yeah, yeah)
 I know that they not my friends (Yeah, yeah)
 But I'm friends with the drugs again (Yeah)
 
-[Pre-Chorus]
+##Pre-Chorus
 Lost my heart, lost it all
 So much drama, hold the applause
 Shit's like a soap opera, straight downfalls
@@ -28,7 +30,7 @@ So much drama, hold the applause
 No soap opera, straight downfalls
 Listen to the nightmares call
 
-[Chorus]
+##Chorus
 You can see the pain in my laugh (Yeah, yeah)
 Demons comin' back from the past (Yeah, yeah)
 Feelin' like I'm 'bout to relapse (Yeah, yeah)
@@ -46,7 +48,7 @@ Is everyone wants me dead (Yeah, yeah)
 Bitch, I'm already dead (Yeah, yeah)
 I've been dead for years (Yeah)
 
-[Verse 2]
+##Verse 2
 Have you ever been so alone (Yeah, yeah)
 That nobody's house feels like home? (Yeah, yeah)
 I've been runnin' out of drugs and hope (Yeah, yeah)
@@ -59,13 +61,14 @@ I know that I didn't stand a chance (Yeah, yeah, yeah)
 I don't think I'll ever live again (Yeah, yeah, yeah)
 I'm only here by popular demand (Yeah, yeah, yeah)
 I'm stayin' alive for the fans (Yeah, yeah, yeah)
-[Pre-Chorus]
+
+##Pre-Chorus
 Lost my heart, lost it all
 So much drama, hold the applause
 No soap opera, straight downfalls
 Listen to the nightmares call
 
-[Chorus]
+##Chorus
 You can see the pain in my laugh (Yeah, yeah)
 Demons comin' back from the past (Yeah, yeah)
 Feelin' like I'm 'bout to relapse (Yeah, yeah)
@@ -75,7 +78,7 @@ Is everyone wants me dead (Yeah, yeah)
 Bitch, I'm already dead (Yeah, yeah)
 I've been dead for years (Yeah, yeah)
 
-[Outro]
+##Outro
 You can see the pain in my laugh (In my laugh)
 Demons comin' back from the past (From the past)
 Feelin' like I'm 'bout to relapse (Relapse)
