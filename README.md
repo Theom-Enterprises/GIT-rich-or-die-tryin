@@ -15,3 +15,9 @@ HTLW3R WEBT Project M2 GIT rich or die tryin’
   - [X] User Story 5
   - [X] User Story 6
   - [X] User Story 7
+- [X] M2-02-ADV
+  - [X] User Story 1
+  - [X] User Story 2
+- [X] M2-03-ADV
+  - [X] User Story 1
+  - [X] User Story 2
